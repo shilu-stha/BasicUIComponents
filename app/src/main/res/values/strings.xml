@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UIComponents</string>
+
+    <string name="list1_prompt">Choose a item</string>
+
+    <string-array name="list1_arrays">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+        <item>Item 5</item>
+        <item>Item 6</item>
+    </string-array>
+</resources>
