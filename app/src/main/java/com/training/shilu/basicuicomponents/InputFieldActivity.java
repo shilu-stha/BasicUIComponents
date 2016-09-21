@@ -1,4 +1,4 @@
-package com.training.shilu.uicomponents;
+package com.training.shilu.basicuicomponents;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

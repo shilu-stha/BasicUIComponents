@@ -1,4 +1,4 @@
-package com.training.shilu.uicomponents;
+package com.training.shilu.basicuicomponents;
 
 import org.junit.Test;
 

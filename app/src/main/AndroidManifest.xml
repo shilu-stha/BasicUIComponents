@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.training.shilu.uicomponents">
+    package="com.training.shilu.basicuicomponents">
 
     <application
         android:allowBackup="true"
@@ -8,17 +8,17 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="com.training.shilu.basicuicomponents.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".InputFieldActivity" />
-        <activity android:name=".RadioButtonActivity" />
-        <activity android:name=".CheckBoxActivity" />
-        <activity android:name=".SpinnerActivity"></activity>
+        <activity android:name="com.training.shilu.basicuicomponents.InputFieldActivity" />
+        <activity android:name="com.training.shilu.basicuicomponents.RadioButtonActivity" />
+        <activity android:name="com.training.shilu.basicuicomponents.CheckBoxActivity" />
+        <activity android:name="com.training.shilu.basicuicomponents.SpinnerActivity"></activity>
     </application>
 
 </manifest>
